@@ -9,7 +9,7 @@
 **Sobre mim**
 
 - 👦🏾‍ Sou Ronald Almeida, campineiro, desenvolvedor Front-end em construção e curioso por natureza.
-- 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo, mas já estudo programação sozinha a 1 ano. Também tenho outra formação complementar em Administração de Empresas pela Universidade Estadual do Maranhão.
+- 🎓 Atualmente curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
 - 📚 Tenho me dedicado a estudar desenvolvimento Web no LaunchBase da Rocketseat🚀. Por meio do curso, desenvolvi projetos em HTML5, CSS3, JavaScript e NodeJs. E mais recentemente React e NextJs no NLW#5👨🏾‍🚀.
 - 🤓 Além disso, já estudei outras linguagens como C, C# e também conheço um pouco de banco de dados com SQL utilizando o MySQL.
 
