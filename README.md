@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miziaalmeida)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronald785)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/ronald785) 
 [![Email](https://img.shields.io/badge/-ronaldmateus785@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ronaldmateus785@gmail.com)](mailto:ronaldmateus785@gmail.com)
 
