@@ -62,30 +62,59 @@
         <a href="#">
             <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
         </a>
-        <a href="#">
-            <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        </a>
     </p>
 
-
-  <h4>🔧 Frameworks e Libs</h4>
-    <p align="left">
-        <a href="#">
-            <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        </a>
-        <a href="#">
-            <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        </a>
-    </p>
+<h4>📱 Tecnologias</h4>
+<p align="left">
+     <a href="#">
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
+    <a href="#">
+        <img alt="React Native" src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
+    <a href="#">
+        <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-yellow?style=for-the-badge" />
+    </a>
+    <a href="#">
+        <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-blue?style=for-the-badge" />
+    </a>
+    <a href="#">
+        <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="Node" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-purple?style=for-the-badge" />
+    </a>
+    <a href="#">
+        <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+    </a>
+    <a href="#">
+        <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    </a>
+</p>
 
 
   <h4>🛢 Banco de Dados</h4>
@@ -94,39 +123,20 @@
             <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
       </a>
       <a href="#">
+        <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </a>
+      <a href="#">
+            <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+      </a>  
+      <a href="#">
+        <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+      </a>
+      <a href="#">
             <img alt="PostegreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       </a>
       <a href="#">
             <img alt="Postbird" src="https://img.shields.io/badge/Postbird-316192?style=for-the-badge&logo=postbird&logoColor=white" />
       </a>
-    </p>
-
-  <h4>📱 Tecnologias</h4>
-    <p align="left">
-        <a href="#">
-            <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Node" src="https://img.shields.io/badge/node-339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        </a>
-        <a href="#">
-            <img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-        </a>
     </p>
 </div>
 
@@ -135,14 +145,6 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/ronald785/" target="_blank">
       <img src="images/linkedin.svg" alt="Linkedin-icon" width=50/>
-    </a>
-      &nbsp;
-    <a href="https://github.com/Ronald785" target="_blank">
-      <img src="images/github.svg" alt="GitHub-icon" width=50/>
-    </a>
-      &nbsp;
-    <a href="https://www.instagram.com/rndmateus/" target="_blank">
-      <img src="images/instagram.svg" alt="Instagram-icon" width=50/>   
     </a>
       &nbsp;
     <a href="mailto:ronaldmateus785@gmail.com" target="_blank">
